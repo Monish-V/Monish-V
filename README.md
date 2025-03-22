@@ -1,4 +1,24 @@
-# 💫 Hi, I'm Monish Venkatesan (Insight Wizard)
+<h1 align="center">Hi 👋, I'm Monish Venkatesan (Insight Wizard)</h1>
+<h3 align="center">A Business Analyst and Passionate Gamer</h3>
+
+- 🔭 I’m currently Pursuing **Masters Degree - Business Analytics**
+
+- 🌱 I’m currently learning **Business Analytics**
+
+- 👯 At **University of Greenwich**
+
+- 💬 Skills in **Python, Tableau, SDLC**
+
+- 📫 How to reach me **monishvenkatesan@gmail.com**
+
+- 📄 Experiences [Developer, Cloud Engineer & Data Analyst](Developer, Cloud Engineer & Data Analyst)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+# **About**
+
 Results-driven Business Analyst with experience in analysing business processes, gathering requirements, and delivering data-driven solutions. <br>Skilled in requirement elicitation, process improvement, stakeholder management, SDLC and data analysis to optimize business operations with expertise in Agile and Waterfall methodologies. <br>Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making. <br>Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
 
 
