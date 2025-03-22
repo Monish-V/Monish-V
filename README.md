@@ -11,9 +11,8 @@
 
 - 📫 How to reach me **monishvenkatesan@gmail.com**
 
-- 📄 Experiences [Developer, Cloud Engineer & Data Analyst](Developer, Cloud Engineer & Data Analyst)
+- 📄 Experiences [Developer, Cloud Engineer & Data Analyst]
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
