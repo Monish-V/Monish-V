@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monish Venkatesan (Insight Wizard)</h1>
+<h1 align="center">Hi, I'm Monish Venkatesan (Insight Wizard)</h1>
 <h3 align="center">A Business Analyst and Passionate Gamer</h3>
 
 - 🔭 I’m currently Pursuing **Masters Degree - Business Analytics**
