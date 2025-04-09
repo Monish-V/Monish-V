@@ -6,7 +6,8 @@
 - 💻 Skilled in requirement elicitation, process improvement, stakeholder management, SDLC and data analysis to optimize business operations with expertise in Agile and Waterfall methodologies.
 - 🖱️ Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making.
 - 👔 Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
-![Business Paint GIF by Chris Timmons](https://github.com/user-attachments/assets/d9c0fa34-6739-4aba-8a87-4afc9be69788)
+
+<h2 align="center">![Business Paint GIF by Chris Timmons](https://github.com/user-attachments/assets/d9c0fa34-6739-4aba-8a87-4afc9be69788)</h2>
 
 
 <h2 align="center">GAMING TECH ENTHUSIAST</h2>
@@ -15,7 +16,8 @@
 
 - 🎮 Conducted comprehensive functional, performance, and UX testing across **competitive, AAA, AA, and indie** games—identifying issues such as **gameplay imbalance, graphical glitches, AI bugs, and progression blockers** across platforms.
 - 🕹️ Submitted detailed bug reports with replication steps and severity levels via community channels like **Steam, Reddit, Discord, etc.**, contributing feedback that influenced patch updates, beta improvements, and overall gameplay stability.
-![Landing Warhammer 40K GIF by Xbox](https://github.com/user-attachments/assets/b3e0f88b-02e3-4768-9c1e-2809b0f9e680)
+
+<h2 align="center">![Landing Warhammer 40K GIF by Xbox](https://github.com/user-attachments/assets/b3e0f88b-02e3-4768-9c1e-2809b0f9e680)</h2>
 
 - 🔭 I’m currently Pursuing **Masters Degree - Business Analytics**
 
