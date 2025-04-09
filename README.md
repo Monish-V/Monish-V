@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Monish Venkatesan</h1>
-<h3 align="center">A BUSINESS ANALYST & GAMING TECH ENTHUSIAST</h3>
+<h3 align="center">A BUSINESS ANALYST</h3>
 
 Results-driven Business Analyst with experience in analysing business processes, gathering requirements, and delivering data-driven solutions. <br>Skilled in requirement elicitation, process improvement, stakeholder management, SDLC and data analysis to optimize business operations with expertise in Agile and Waterfall methodologies. <br>Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making. <br>Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
 
