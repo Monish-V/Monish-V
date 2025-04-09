@@ -2,7 +2,10 @@
 
 <h2 align="center">A BUSINESS ANALYST</h2>
 
-Results-driven Business Analyst with experience in analysing business processes, gathering requirements, and delivering data-driven solutions. <br>Skilled in requirement elicitation, process improvement, stakeholder management, SDLC and data analysis to optimize business operations with expertise in Agile and Waterfall methodologies. <br>Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making. <br>Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
+- 📈 Results-driven Business Analyst with experience in analysing business processes, gathering requirements, and delivering data-driven solutions.
+- 💻 Skilled in requirement elicitation, process improvement, stakeholder management, SDLC and data analysis to optimize business operations with expertise in Agile and Waterfall methodologies.
+- 🖱️ Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making.
+- 👔 Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
 
 
 <h2 align="center">GAMING TECH ENTHUSIAST</h2>
