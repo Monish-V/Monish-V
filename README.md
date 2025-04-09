@@ -7,9 +7,7 @@
 - 🖱️ Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making.
 - 👔 Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
 
-
-!(https://github.com/user-attachments/assets/d9c0fa34-6739-4aba-8a87-4afc9be69788)
-
+![Business Paint GIF by Chris Timmons](https://github.com/user-attachments/assets/dfcdd907-55f7-436a-b735-7937cbc6a443)
 
 <h2 align="center">GAMING TECH ENTHUSIAST</h2>
 
@@ -18,9 +16,7 @@
 - 🎮 Conducted comprehensive functional, performance, and UX testing across **competitive, AAA, AA, and indie** games—identifying issues such as **gameplay imbalance, graphical glitches, AI bugs, and progression blockers** across platforms.
 - 🕹️ Submitted detailed bug reports with replication steps and severity levels via community channels like **Steam, Reddit, Discord, etc.**, contributing feedback that influenced patch updates, beta improvements, and overall gameplay stability.
 
-
-!(https://github.com/user-attachments/assets/b3e0f88b-02e3-4768-9c1e-2809b0f9e680)
-
+![Landing Warhammer 40K GIF by Xbox](https://github.com/user-attachments/assets/e33b8bab-a3c6-470f-8b66-76cf8d0e0f8b)
 
 - 🔭 I’m currently Pursuing **Masters Degree - Business Analytics**
 
