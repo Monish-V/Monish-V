@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Monish Venkatesan (Insight Wizard)</h1>
-<h3 align="center">A Business Analyst Gaming Tech Enthusiast</h3>
+<h3 align="center">A BUSINESS ANALYST & GAMING TECH ENTHUSIAST</h3>
 
 - 🔭 I’m currently Pursuing **Masters Degree - Business Analytics**
 
@@ -13,7 +13,7 @@
 
 - 📄 Experiences [Developer, Cloud Engineer & Data Analyst]
 
-<h3 align="center">Gaming Tech Enthusiast</h3>
+<h3 align="center">GAMING TECH ENTHUSIAST</h3>
 
 ## Freelance Game Tester & Bug Reporter
 
