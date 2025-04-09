@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Monish Venkatesan (Insight Wizard)</h1>
-<h3 align="center">A Business Analyst and Passionate Gamer</h3>
+<h3 align="center">A Business Analyst Gaming Tech Enthusiast</h3>
 
 - 🔭 I’m currently Pursuing **Masters Degree - Business Analytics**
 
@@ -12,6 +12,17 @@
 - 📫 How to reach me **monishvenkatesan@gmail.com**
 
 - 📄 Experiences [Developer, Cloud Engineer & Data Analyst]
+
+<h3 align="center">Gaming Tech Enthusiast</h3>
+
+## Freelance Game Tester & Bug Reporter
+
+- Conducted **functional, performance, and UX testing** across a diverse set of **game genres** and platforms, identifying issues in gameplay mechanics, hitbox accuracy, latency, and matchmaking systems.
+- Diagnosed and reported **graphical glitches, AI behavior anomalies, progression blockers,** and **physics issues** across **AAA**, **AA**, and **Indie** titles.
+- Delivered in-depth **user experience** insights and documented **edge-case bugs**, focusing on **platform-specific stability** and **UI/UX improvements**.
+- Created and submitted **structured bug reports** (with detailed replication steps, severity levels, and timestamps) via **Steam**, **Reddit**, **Discord**, and **official game forums**.
+- Provided valuable feedback during **beta phases** and **major patch cycles**, contributing directly to **gameplay stability**, **system performance**, and **patch optimizations**.
+
 
 <p align="left">
 </p>
