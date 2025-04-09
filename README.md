@@ -1,5 +1,14 @@
-<h1 align="center">Hi, I'm Monish Venkatesan (Insight Wizard)</h1>
+<h1 align="center">Hi, I'm Monish Venkatesan</h1>
 <h3 align="center">A BUSINESS ANALYST & GAMING TECH ENTHUSIAST</h3>
+
+Results-driven Business Analyst with experience in analysing business processes, gathering requirements, and delivering data-driven solutions. <br>Skilled in requirement elicitation, process improvement, stakeholder management, SDLC and data analysis to optimize business operations with expertise in Agile and Waterfall methodologies. <br>Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making. <br>Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
+
+<h3 align="center">GAMING TECH ENTHUSIAST</h3>
+
+# Freelance Game Tester & Bug Reporter
+
+- 🎮 Conducted comprehensive functional, performance, and UX testing across **competitive, AAA, AA, and indie** games—identifying issues such as **gameplay imbalance, graphical glitches, AI bugs, and progression blockers** across platforms.
+- 🕹️ Submitted detailed bug reports with replication steps and severity levels via community channels like **Steam, Reddit, Discord, etc.**, contributing feedback that influenced patch updates, beta improvements, and overall gameplay stability.
 
 - 🔭 I’m currently Pursuing **Masters Degree - Business Analytics**
 
@@ -13,20 +22,8 @@
 
 - 📄 Experiences [Developer, Cloud Engineer & Data Analyst]
 
-<h3 align="center">GAMING TECH ENTHUSIAST</h3>
-
-## Freelance Game Tester & Bug Reporter
-
-- 🎮 Conducted comprehensive functional, performance, and UX testing across **competitive, AAA, AA, and indie** games—identifying issues such as **gameplay imbalance, graphical glitches, AI bugs, and progression blockers** across platforms.
-- 🕹️ Submitted detailed bug reports with replication steps and severity levels via community channels like **Steam, Reddit, Discord, etc.**, contributing feedback that influenced patch updates, beta improvements, and overall gameplay stability.
-
-
 <p align="left">
 </p>
-
-# **About**
-
-Results-driven Business Analyst with experience in analysing business processes, gathering requirements, and delivering data-driven solutions. <br>Skilled in requirement elicitation, process improvement, stakeholder management, SDLC and data analysis to optimize business operations with expertise in Agile and Waterfall methodologies. <br>Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making. <br>Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
 
 
 ## 🌐 Socials:
