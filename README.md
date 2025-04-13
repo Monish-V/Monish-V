@@ -8,19 +8,7 @@ Analytical thinker and problem-solver, I turn data into actionable insights to d
 
 Passionate about gaming and precision-driven, I ensure every pixel and mechanic delivers flawless gameplay through meticulous testing and quality analysis.
 
-![Landing Warhammer 40K GIF by Xbox](https://github.com/user-attachments/assets/e33b8bab-a3c6-470f-8b66-76cf8d0e0f8b)
-
-- 🔭 I’m currently Pursuing **Masters Degree - Business Analytics**
-
-- 🌱 I’m currently learning **Business Analytics**
-
-- 👯 At **University of Greenwich**
-
-- 💬 Skills in **Python, Tableau, SDLC**
-
-- 📫 How to reach me **monishvenkatesan@gmail.com**
-
-- 📄 Experiences [Developer, Cloud Engineer & Data Analyst]
+Pursuing a Master’s in Business Analytics at the University of Greenwich, I’m building expertise in Python, Tableau, and SDLC with experience as a Developer, Cloud Engineer, and Data Analyst — reach me at monishvenkatesan@gmail.com.
 
 <p align="left">
 </p>
