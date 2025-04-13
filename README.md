@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Monish Venkatesan</h1>
+<h1 align="center">MONISH VENKATESAN - INSIGHT WIZARD</h1>
 
 <h2 align="center">BUSINESS ANALYST</h2>
 
 Analytical thinker and problem-solver, I turn data into actionable insights to drive smart decisions and seamless business solutions.
 
-<h2 align="center">GAMING TECH ENTHUSIAST</h2>
+<h2 align="center">GAME QUALITY ANALYST</h2>
 
 Passionate about gaming and precision-driven, I ensure every pixel and mechanic delivers flawless gameplay through meticulous testing and quality analysis.
 
