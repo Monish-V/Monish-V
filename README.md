@@ -1,20 +1,12 @@
 <h1 align="center">Hi, I'm Monish Venkatesan</h1>
 
-<h2 align="center">A BUSINESS ANALYST</h2>
+<h2 align="center">BUSINESS ANALYST</h2>
 
-- 📈 Results-driven Business Analyst with experience in analysing business processes, gathering requirements, and delivering data-driven solutions.
-- 💻 Skilled in requirement elicitation, process improvement, stakeholder management, SDLC and data analysis to optimize business operations with expertise in Agile and Waterfall methodologies.
-- 🖱️ Adept at translating complex data into actionable insights, driving efficiency, and enhancing decision-making.
-- 👔 Strong communicator and problem-solver with a proven track record of collaborating with cross-functional teams to achieve business goals.
-
-![Business Paint GIF by Chris Timmons](https://github.com/user-attachments/assets/dfcdd907-55f7-436a-b735-7937cbc6a443)
+Analytical thinker and problem-solver, I turn data into actionable insights to drive smart decisions and seamless business solutions.
 
 <h2 align="center">GAMING TECH ENTHUSIAST</h2>
 
-# Freelance Game Tester & Bug Reporter
-
-- 🎮 Conducted comprehensive functional, performance, and UX testing across **competitive, AAA, AA, and indie** games—identifying issues such as **gameplay imbalance, graphical glitches, AI bugs, and progression blockers** across platforms.
-- 🕹️ Submitted detailed bug reports with replication steps and severity levels via community channels like **Steam, Reddit, Discord, etc.**, contributing feedback that influenced patch updates, beta improvements, and overall gameplay stability.
+Passionate about gaming and precision-driven, I ensure every pixel and mechanic delivers flawless gameplay through meticulous testing and quality analysis.
 
 ![Landing Warhammer 40K GIF by Xbox](https://github.com/user-attachments/assets/e33b8bab-a3c6-470f-8b66-76cf8d0e0f8b)
 
