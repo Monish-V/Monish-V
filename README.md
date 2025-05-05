@@ -1,4 +1,4 @@
-<h1 align="center">MONISH VENKATESAN - INSIGHT WIZARD</h1>
+<h1 align="center">Hi, Its MONISH VENKATESAN</h1>
 
 <h2 align="center">BUSINESS ANALYST</h2>
 
