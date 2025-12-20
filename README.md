@@ -4,9 +4,6 @@
 
 Analytical thinker and problem-solver, I turn data into actionable insights to drive smart decisions and seamless business solutions.
 
-<h2 align="center">GAME DESIGNER AND QUALITY ANALYST</h2>
-
-Passionate about gaming and precision-driven, I ensure every pixel and mechanic delivers flawless gameplay through meticulous Designing and Quality Analysis.
 
 Pursuing a Master’s in Business Analytics at the University of Greenwich, I’m building expertise in Python, Tableau, and SDLC with experience as a Developer, Cloud Engineer, and Data Analyst — reach me at monishvenkatesan@gmail.com.
 
